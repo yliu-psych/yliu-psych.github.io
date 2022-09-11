@@ -3,24 +3,6 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* Email: [yliu3310@ed.ac.uk](mailto:yliu3310@ed.ac.uk) 
+* Profile: [CTMF](https://www.technomoralfutures.uk/phd-students/yuxin-liu) 
+* Twitter: [@\_yuxinl\_](https://twitter.com/_yuxinl_/)
