@@ -2,13 +2,15 @@
 layout: default
 ---
 
-### Work in progress
+### work in progress
 
-tbd 
+* metacognition 
+* enhancement
+* belief updating 
 
 ---
 
-### Peer-reviewed Publications
+### peer-reviewed publications
 
 1. **Liu, Y.**, Moore, A. Webb, J., and Vallor, S. (2022). Artificial moral advisors: A new perspective from moral psychology. *AIES ’22: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*, 436-445. https://doi.org/10.1145/3514094.3534139 \
 [[pdf]](/papers/Liuetal2022.pdf) [[vid pres slides]](/presentations/AIES22_lightning_slides.pdf) 
@@ -18,7 +20,7 @@ tbd
 
 ---
 
-### Talks & Presentations 
+### talks & presentations 
 
 1. **19th BPS Cognitive Section Annual Conference (BPS CogSec ’22)** \
     Brighton, UK | 09th Sept 2022 \
