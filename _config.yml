@@ -19,7 +19,7 @@ nav:
  - name: "About"
    link: "/"
  - name: "Research"
-   link: "pubs&pres"
+   link: "research"
  - name: "CV"
    #link: "resume.pdf"
  - name: "Contact"
