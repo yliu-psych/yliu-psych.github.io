@@ -16,4 +16,11 @@ My research interests thus far include thinking and reasoning, judgement and dec
 
 I received my M.A. Psychology (2020) and MSc.R. Psychology (2021) from the University of Edinburgh. 
 
-[cv](/resume.pdf)
+Feel free to [email](mailto:yliu3310@ed.ac.uk) or dm me on [twitter](https://twitter.com/_yuxinl_/).
+
+---
+
+[cv](/resume.pdf) | 
+[phd profile](https://www.technomoralfutures.uk/phd-students/yuxin-liu) | 
+[phd project](https://www.technomoralfutures.uk/phd-research-database/moral-judgments-towards-artificial-intelligence-systems) | 
+[google scholar](https://scholar.google.co.uk/citations?user=06_0SucAAAAJ&hl=en) 
