@@ -22,22 +22,22 @@ layout: default
 
 ### talks & presentations 
 
-1. **19th BPS Cognitive Section Annual Conference (BPS CogSec ’22)** \
+1. **19th BPS Cognitive Section Annual Conference** ([BPS CogSec ’22](https://www.cogsec2022.com/)) \
     Brighton, UK | 09th Sept 2022 \
     [Oral](/presentations/CogSec22_slides.pdf): 
     *Moral intuitions regarding the use of artificial intelligence*
 
-2. **5th AAAI/ACM Conference on AI, Ethics, and Society (AIES ’22)** \
+2. **5th AAAI/ACM Conference on AI, Ethics, and Society** ([AIES ’22](https://www.aies-conference.com/2022/)) \
     Oxford, UK | 1st Aug 2022 \
     [Flash talk](/presentations/AIES22_vid_slides.pdf) & [poster](/presentations/AIES22_poster.pdf): 
     *Artificial moral advisors: A new perspective from moral psychology* 
 
-3. **44th Annual Meeting of the Cognitive Science Society (CogSci ’22)** \
+3. **44th Annual Meeting of the Cognitive Science Society** ([CogSci ’22](https://cognitivesciencesociety.org/cogsci-2022/)) \
     Toronto, Canada | 29th July 2022 \
     [Poster](/presentations/CogSci22_poster.pdf): 
     *A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements*
 
-4. **1st Doctoral Colloquium of the AI Ethics and Society Group** \
+4. **1st Doctoral Colloquium of the AI Ethics and Society Group** ([AIES DC ’21](https://www.ai-ethics.org/doctoral-colloquium)) \
     Edinburgh, UK | 4th Nov 2021 \
     Work-in-progress: 
     *Human moral judgements towards artificial intelligence systems*
