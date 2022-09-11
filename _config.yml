@@ -1,6 +1,6 @@
 title: yuxin liu
 url: "https://yliu-psych.github.io"
-#baseurl: ""
+#baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "/"
+ - name: "Research"
+   link: "pubs&pres"
  - name: "CV"
    #link: "resume.pdf"
  - name: "Contact"
