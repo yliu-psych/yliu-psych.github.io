@@ -6,13 +6,13 @@ files stored in root repository:
 
 --
 
-* \_config.yml - code for webpage configuration 
+* \_config.yml - code for general webpage configuration 
 
 --
 
-* index.md - code for home page i.e. **about** section 
+* index.md - code for **about** section i.e. home page 
 * web-profile.jpg - profile pic 
-* cv.pdf (tbd) - cv 
+* cv.pdf - cv (tbd)
 
 --
 
@@ -23,3 +23,4 @@ files stored in root repository:
 ---
 
 Using [demo website](https://ankitsultana.com/researcher/) by [Ankit Sultana](https://github.com/ankitsultana). 
+(see template_readme.md)
