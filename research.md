@@ -12,12 +12,12 @@ layout: default
 
 ### peer-reviewed publications
 
-3. McIntosh, R. D., Moore, A. B., **Liu, Y.**, and Della Sala, S. (2022). Skill and self-knowledge: Empirical refutation of the dual-burden account of the Dunning–Kruger effect. *Royal Society Open Science*, *9*(12), 191727. [http://doi.org/10.1098/rsos.191727](http://doi.org/10.1098/rsos.191727) 
+1. McIntosh, R. D., Moore, A. B., **Liu, Y.**, and Della Sala, S. (2022). Skill and self-knowledge: Empirical refutation of the dual-burden account of the Dunning–Kruger effect. *Royal Society Open Science*, *9*(12), 191727. [http://doi.org/10.1098/rsos.191727](http://doi.org/10.1098/rsos.191727) 
 
 2. **Liu, Y.**, Moore, A. Webb, J., and Vallor, S. (2022). Artificial moral advisors: A new perspective from moral psychology. *AIES ’22: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*, 436-445. [https://doi.org/10.1145/3514094.3534139](https://doi.org/10.1145/3514094.3534139) \
 [[pdf]](/papers/Liuetal2022.pdf) [[vid pres slides]](/presentations/AIES22_lightning_slides.pdf) 
 
-1. **Liu, Y.** and Moore, A. (2022). A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements. *Proceedings of the Annual Meeting of the Cognitive Science Society*, *44*, 2116–2125. [https://escholarship.org/uc/item/3v79704h](https://escholarship.org/uc/item/3v79704h) \
+3. **Liu, Y.** and Moore, A. (2022). A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements. *Proceedings of the Annual Meeting of the Cognitive Science Society*, *44*, 2116–2125. [https://escholarship.org/uc/item/3v79704h](https://escholarship.org/uc/item/3v79704h) \
 [[pdf]](/papers/LiuMoore2022.pdf) [[osf]](https://osf.io/7qjt3/)
 
 ---
