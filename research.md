@@ -24,9 +24,14 @@ layout: default
 
 ### talks & presentations 
 
-1. **19th BPS Cognitive Section Annual Conference** ([BPS CogSec ’22](https://www.cogsec2022.com/)) \
+1. **Artificial Intelligence and the Christian Churches** ([The Church of Scotland](https://www.churchofscotland.org.uk/news-and-events/events/artificial-intelligence-and-the-christian-churches)) \
+    Edinburgh, UK | 23 Feb 2023 \
+    [Invited talk]():
+    *Artificial moral advisor and moral enhancement*
+
+3. **19th BPS Cognitive Section Annual Conference** ([BPS CogSec ’22](https://www.cogsec2022.com/)) \
     Brighton, UK | 09 Sept 2022 \
-    [Oral](/presentations/CogSec22_slides.pdf): 
+    [Oral talk](/presentations/CogSec22_slides.pdf): 
     *Moral intuitions regarding the use of artificial intelligence*
 
 2. **5th AAAI/ACM Conference on AI, Ethics, and Society** ([AIES ’22](https://www.aies-conference.com/2022/)) \
