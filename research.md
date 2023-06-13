@@ -2,14 +2,6 @@
 layout: default
 ---
 
-### secret projects (work in progress)
- 
-* ideal observer
-* moral enhancement
-* belief updating 
-
----
-
 ### peer-reviewed publications
 
 1. McIntosh, R. D., Moore, A. B., **Liu, Y.**, and Della Sala, S. (2022). Skill and self-knowledge: Empirical refutation of the dual-burden account of the Dunning–Kruger effect. *Royal Society Open Science*, *9*(12), 191727. [http://doi.org/10.1098/rsos.191727](http://doi.org/10.1098/rsos.191727) 
@@ -24,7 +16,12 @@ layout: default
 
 ### talks & presentations 
 
-1. **Artificial Intelligence and the Christian Churches** ([The Church of Scotland](https://www.churchofscotland.org.uk/news-and-events/events/artificial-intelligence-and-the-christian-churches)) \
+1. **23rd Biennial Conference of the Society for Philosophy and Technology** ([SPT '23](https://www.spt2023.org/)) \
+   Tokyo, Japan | 09 June 2023 \
+   [Panel talk]():
+   *Moral AI? The infeasibility and injustice of artificial ideal observer*
+
+2. **Artificial Intelligence and the Christian Churches** ([The Church of Scotland](https://www.churchofscotland.org.uk/news-and-events/events/artificial-intelligence-and-the-christian-churches)) \
     Edinburgh, UK | 23 Feb 2023 \
     [Invited talk]():
     *Artificial moral advisor and moral enhancement*
@@ -34,17 +31,17 @@ layout: default
     [Oral talk](/presentations/CogSec22_slides.pdf): 
     *Moral intuitions regarding the use of artificial intelligence*
 
-2. **5th AAAI/ACM Conference on AI, Ethics, and Society** ([AIES ’22](https://www.aies-conference.com/2022/)) \
+4. **5th AAAI/ACM Conference on AI, Ethics, and Society** ([AIES ’22](https://www.aies-conference.com/2022/)) \
     Oxford, UK | 01 Aug 2022 \
     [Flash talk](/presentations/AIES22_vid_slides.pdf) & [poster](/presentations/AIES22_poster.pdf): 
     *Artificial moral advisors: A new perspective from moral psychology* 
 
-3. **44th Annual Meeting of the Cognitive Science Society** ([CogSci ’22](https://cognitivesciencesociety.org/cogsci-2022/)) \
+5. **44th Annual Meeting of the Cognitive Science Society** ([CogSci ’22](https://cognitivesciencesociety.org/cogsci-2022/)) \
     Toronto, Canada | 29 July 2022 \
     [Poster](/presentations/CogSci22_poster.pdf): 
     *A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements*
 
-4. **1st Doctoral Colloquium of the AI Ethics and Society Group** ([AIES DC ’21](https://www.ai-ethics.org/doctoral-colloquium)) \
+6. **1st Doctoral Colloquium of the AI Ethics and Society Group** ([AIES DC ’21](https://www.ai-ethics.org/doctoral-colloquium)) \
     Edinburgh, UK | 04 Nov 2021 \
     Work-in-progress: 
     *Human moral judgements towards artificial intelligence systems*
