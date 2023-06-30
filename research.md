@@ -21,10 +21,10 @@ layout: default
    [Poster](): 
    *Intuitive judgements towards AI verdicts of moral transgressions*
 
-2. **Moral Psychology of AI Conference** ([MPAI](https://blogs.kent.ac.uk/moralpsychai/)) \
+2. **Moral Psychology of AI Conference** ([MPAI '23](https://blogs.kent.ac.uk/moralpsychai/)) \
    Kent, UK | 26 June 2023 \
    [Oral talk](/presentations/MPAI23_slides.pdf): 
-   *The Moral Psychology Behind Artificial Moral Advisors*
+   *The moral psychology behind artificial moral advisors*
 
 3. **23rd Biennial Conference of the Society for Philosophy and Technology** ([SPT '23](https://www.spt2023.org/)) \
    Tokyo, Japan | 09 June 2023 \
@@ -44,7 +44,7 @@ layout: default
 
 6. **5th AAAI/ACM Conference on AI, Ethics, and Society** ([AIES ’22](https://www.aies-conference.com/2022/)) \
     Oxford, UK | 01 Aug 2022 \
-    [Vid](/presentations/AIES22_vid_slides.pdf) & [Flash talk](/presentations/AIES22_lightning_slides.pdf) & [poster](/presentations/AIES22_poster.pdf): 
+    [Vid](/presentations/AIES22_vid_slides.pdf) & [flash talk](/presentations/AIES22_lightning_slides.pdf) & [poster](/presentations/AIES22_poster.pdf): 
     *Artificial moral advisors: A new perspective from moral psychology* 
 
 7. **44th Annual Meeting of the Cognitive Science Society** ([CogSci ’22](https://cognitivesciencesociety.org/cogsci-2022/)) \
