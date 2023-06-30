@@ -16,32 +16,43 @@ layout: default
 
 ### talks & presentations 
 
-1. **23rd Biennial Conference of the Society for Philosophy and Technology** ([SPT '23](https://www.spt2023.org/)) \
-   Tokyo, Japan | 09 June 2023 \
-   [Panel talk]():
-   *Moral AI? The infeasibility and injustice of artificial ideal observer*
+1. **1st International Symposium on Trustworthy Autonomous Systems** ([TAS '23](https://symposium.tas.ac.uk/)) \
+   Edinburgh, UK | July 2023 \
+   [Poster](): 
+   *Intuitive judgements towards AI verdicts of moral transgressions*
 
-2. **Artificial Intelligence and the Christian Churches** ([The Church of Scotland](https://www.churchofscotland.org.uk/news-and-events/events/artificial-intelligence-and-the-christian-churches)) \
+2. **Moral Psychology of AI Conference** ([MPAI](https://blogs.kent.ac.uk/moralpsychai/)) \
+   Kent, UK | 26 June 2023 \
+   [Oral talk](/presentations/MPAI23_slides.pdf): 
+   *The Moral Psychology Behind Artificial Moral Advisors*
+
+3. **23rd Biennial Conference of the Society for Philosophy and Technology** ([SPT '23](https://www.spt2023.org/)) \
+   Tokyo, Japan | 09 June 2023 \
+   [Panel talk](/presentations/SPT23_slides.pdf): 
+   *Moral AI? The infeasibility and injustice of artificial ideal observer*
+   as part of the panel *Mobilising Technomoral Knowledge*
+
+4. **Artificial Intelligence and the Christian Churches** ([The Church of Scotland](https://www.churchofscotland.org.uk/news-and-events/events/artificial-intelligence-and-the-christian-churches)) \
     Edinburgh, UK | 23 Feb 2023 \
     [Invited talk]():
     *Artificial moral advisor and moral enhancement*
 
-3. **19th BPS Cognitive Section Annual Conference** ([BPS CogSec ’22](https://www.cogsec2022.com/)) \
+5. **19th BPS Cognitive Section Annual Conference** ([BPS CogSec ’22](https://www.cogsec2022.com/)) \
     Brighton, UK | 09 Sept 2022 \
     [Oral talk](/presentations/CogSec22_slides.pdf): 
     *Moral intuitions regarding the use of artificial intelligence*
 
-4. **5th AAAI/ACM Conference on AI, Ethics, and Society** ([AIES ’22](https://www.aies-conference.com/2022/)) \
+6. **5th AAAI/ACM Conference on AI, Ethics, and Society** ([AIES ’22](https://www.aies-conference.com/2022/)) \
     Oxford, UK | 01 Aug 2022 \
-    [Flash talk](/presentations/AIES22_vid_slides.pdf) & [poster](/presentations/AIES22_poster.pdf): 
+    [Vid](/presentations/AIES22_vid_slides.pdf) & [Flash talk](/presentations/AIES22_lightning_slides.pdf) & [poster](/presentations/AIES22_poster.pdf): 
     *Artificial moral advisors: A new perspective from moral psychology* 
 
-5. **44th Annual Meeting of the Cognitive Science Society** ([CogSci ’22](https://cognitivesciencesociety.org/cogsci-2022/)) \
+7. **44th Annual Meeting of the Cognitive Science Society** ([CogSci ’22](https://cognitivesciencesociety.org/cogsci-2022/)) \
     Toronto, Canada | 29 July 2022 \
     [Poster](/presentations/CogSci22_poster.pdf): 
     *A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements*
 
-6. **1st Doctoral Colloquium of the AI Ethics and Society Group** ([AIES DC ’21](https://www.ai-ethics.org/doctoral-colloquium)) \
+8. **1st Doctoral Colloquium of the AI Ethics and Society Group** ([AIES DC ’21](https://www.ai-ethics.org/doctoral-colloquium)) \
     Edinburgh, UK | 04 Nov 2021 \
-    Work-in-progress: 
+    Work-in-progress talk: 
     *Human moral judgements towards artificial intelligence systems*
