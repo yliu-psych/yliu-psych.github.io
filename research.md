@@ -18,7 +18,7 @@ layout: default
 
 1. **1st International Symposium on Trustworthy Autonomous Systems** ([TAS '23](https://symposium.tas.ac.uk/)) \
    Edinburgh, UK | July 2023 \
-   [Poster](): 
+   [Poster](/presentations/TAS23_poster.pdf): 
    *Intuitive judgements towards AI verdicts of moral transgressions*
 
 2. **Moral Psychology of AI Conference** ([MPAI '23](https://blogs.kent.ac.uk/moralpsychai/)) \
