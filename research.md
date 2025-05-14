@@ -74,3 +74,24 @@ layout: default
 14. **1st Doctoral Colloquium of the AI Ethics and Society Group** ([AIES DC ’21](https://www.ai-ethics.org/doctoral-colloquium)) \
     Edinburgh, UK | 04 Nov 2021 \
     Work-in-progress talk: *Human moral judgements towards artificial intelligence systems*
+
+---
+
+### public outreach 
+
+1. **Centre for Technomoral Futures** \ 
+   CTMF Research Blog | 04 Apr 2025 \ 
+   ([Blog post](https://www.technomoralfutures.uk/news-database/can-ai-be-moral-the-quest-for-moral-machines)):
+   *Can AI be moral? The quest for moral machines and what it means for human morality*
+   
+---
+
+### working papers 
+• An empirical investigation of moral enhancement \
+• Socratic AI enhancement and other dialogic artificial moral advisors \
+• Belief updating in response to human vs. AI moral advisors \
+• AI commonsense morality
+
+
+
+
