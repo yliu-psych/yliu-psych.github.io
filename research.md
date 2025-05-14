@@ -79,9 +79,9 @@ layout: default
 
 ### public outreach 
 
-1. **Centre for Technomoral Futures** \ 
-   CTMF Research Blog | 04 Apr 2025 \ 
-   ([Blog post](https://www.technomoralfutures.uk/news-database/can-ai-be-moral-the-quest-for-moral-machines)):
+1. **Centre for Technomoral Futures** \
+   CTMF Research Blog | 04 Apr 2025 \
+   Blog post ([link](https://www.technomoralfutures.uk/news-database/can-ai-be-moral-the-quest-for-moral-machines)):
    *Can AI be moral? The quest for moral machines and what it means for human morality*
    
 ---
@@ -90,7 +90,8 @@ layout: default
 • An empirical investigation of moral enhancement \
 • Socratic AI enhancement and other dialogic artificial moral advisors \
 • Belief updating in response to human vs. AI moral advisors \
-• AI commonsense morality
+• AI commonsense morality \
+•
 
 
 
