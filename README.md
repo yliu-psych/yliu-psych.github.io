@@ -18,7 +18,6 @@ files stored in root repository:
 
 * research.md - code for **research** section 
 * papers - folder with pdf's of publications
-* presentations - folder with pdf's of talks & presentations
 
 ---
 
