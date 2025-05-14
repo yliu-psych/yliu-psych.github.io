@@ -16,13 +16,13 @@ layout: default
 
 ---
 
-### talks & presentations 
+### contributed talks 
 
-1. Upcoming: **5th European Experimental Philosophy Conference** ([EuroX-Phi'25](https://x-phi.uea.ac.uk/EuroX-Phi2025-conference/)) \
+1. Upcoming: **5th European Experimental Philosophy Conference** ([EuroX-Phi '25](https://x-phi.uea.ac.uk/EuroX-Phi2025-conference/)) \
    Norwich, UK | 10-12 July 2025 \ 
    Symposium talk: *An alternative path to moral bioenhancement? AI moral enhancement gains approval but undermines moral responsibility* (as part of the symposium *Artificial Moral Advisors*)
 
-2. Upcoming: **Basel-Oxford-NUS BioXPhi Summit 2025** ([BioXPhi'25](https://ibmb.unibas.ch/en/public-outreach/projects-to-the-public/basel-oxford-nus-bioxphi-summit-2025/)) \
+2. Upcoming: **Basel-Oxford-NUS BioXPhi Summit 2025** ([BioXPhi '25](https://ibmb.unibas.ch/en/public-outreach/projects-to-the-public/basel-oxford-nus-bioxphi-summit-2025/)) \
    Basel, Switzerland | 25-27 June 2025 \
    Oral talk: *An alternative path to moral bioenhancement? AI moral enhancement gains approval but undermines moral responsibility*
 
@@ -30,7 +30,7 @@ layout: default
    Edinburgh, UK | 02 June 2025 \
    Oral talk: 
 
-4. **19th Postgraduate Bioethics Conference** ([PGBC'24](https://ime-uk.org/events-and-news/events/pgbc-2024-bioethics-in-action/)) \ 
+4. **19th Postgraduate Bioethics Conference** ([PGBC '24](https://ime-uk.org/events-and-news/events/pgbc-2024-bioethics-in-action/)) \
    Cambridge, UK | 02-03 Sept 2024 \
    Poster: *Potential for AI moral enhancement? Artificial moral advisors gain acceptance but diminish perceived responsibility for good feeds*
 
@@ -55,11 +55,11 @@ layout: default
    Panel talk: *Moral AI? The infeasibility and injustice of artificial ideal observer*
    (as part of the panel *Mobilising Technomoral Knowledge*)
 
-10. **Artificial Intelligence and the Christian Churches** ([The Church of Scotland](https://www.churchofscotland.org.uk/news-and-events/events/artificial-intelligence-and-the-christian-churches)) \
+10. **Artificial Intelligence and the Christian Churches** ([Church of Scotland](https://www.churchofscotland.org.uk/news-and-events/events/artificial-intelligence-and-the-christian-churches)) \
     Edinburgh, UK | 23 Feb 2023 \
     Invited talk: *Artificial moral advisor and moral enhancement*
 
-11. **19th BPS Cognitive Section Annual Conference** ([BPS CogSec ’22](https://www.cogsec2022.com/)) \
+11. **19th British Psychological Society Cognitive Section Annual Conference** ([BPS CogSec ’22](https://www.cogsec2022.com/)) \
     Brighton, UK | 09 Sept 2022 \
     Oral talk: *Moral intuitions regarding the use of artificial intelligence*
 
