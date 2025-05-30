@@ -12,7 +12,7 @@ Advised by [Dr Adam Moore](https://www.ed.ac.uk/profile/adam-moore) and [Prof Sh
 
 I received my M.A. Psychology (2020) and MSc.R. Psychology (2021) from the University of Edinburgh. 
 
-Feel free to [email](mailto:yuxin.liu@ed.ac.uk) or dm me on [twitter](https://twitter.com/_yuxinl_/).
+Feel free to [email](mailto:yuxin.liu@ed.ac.uk) or dm me on [twitter](https://twitter.com/_yuxinl_/)/[bluesky](https://bsky.app/profile/yuxinliu.bsky.social).
 
 --
 
