@@ -4,8 +4,8 @@ layout: default
 
 ### peer-reviewed publications
 
-1. **Liu, Y.** and Moore, A. (2025). Intuitive Judgements Towards Artificial Intelligence Verdicts of Moral Transgressions. *British Journal of Social Psychology*, *64*(3), e12908. [https://doi.org/10.1111/bjso.12908](https://doi.org/10.1111/bjso.12908) \
-   [[pdf]](/papers/Liu_Moore_2025_AI_belief_alignment.pdf) [[OSF]](https://osf.io/7qjt3/)
+1. **Liu, Y.** and Moore, A. (2025). Intuitive judgements towards artificial intelligence verdicts of moral transgressions. *British Journal of Social Psychology*, *64*(3), e12908. [https://doi.org/10.1111/bjso.12908](https://doi.org/10.1111/bjso.12908) \
+   [[pdf]](/papers/Liu_Moore_2025_AI_belief_alignment.pdf) [[osf]](https://osf.io/7qjt3/)
 
 2. McIntosh, R. D., Moore, A. B., **Liu, Y.**, and Della Sala, S. (2022). Skill and self-knowledge: Empirical refutation of the dual-burden account of the Dunning–Kruger effect. *Royal Society Open Science*, *9*(12), 191727. [http://doi.org/10.1098/rsos.191727](http://doi.org/10.1098/rsos.191727) 
    
