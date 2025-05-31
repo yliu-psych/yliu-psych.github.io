@@ -8,9 +8,10 @@ layout: default
    [[pdf]](/papers/Liu_Moore_2025_AI_belief_alignment.pdf) [[osf]](https://osf.io/7qjt3/)
 
 2. McIntosh, R. D., Moore, A. B., **Liu, Y.**, and Della Sala, S. (2022). Skill and self-knowledge: Empirical refutation of the dual-burden account of the Dunning–Kruger effect. *Royal Society Open Science*, *9*(12), 191727. [http://doi.org/10.1098/rsos.191727](http://doi.org/10.1098/rsos.191727) 
-   
+   [[pdf]](/papers/McIntosh_et_al_2022_DK_self_knowledge.pdf) 
+
 3. **Liu, Y.**, Moore, A. Webb, J., and Vallor, S. (2022). Artificial moral advisors: A new perspective from moral psychology. *AIES ’22: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*, 436-445. [https://doi.org/10.1145/3514094.3534139](https://doi.org/10.1145/3514094.3534139) \
-   [[pdf]](/papers/Liu_et_al_2022_AMA_commentary.pdf)
+   [[pdf]](/papers/Liu_et_al_2022_AMA_commentary.pdf) [[osf]](https://osf.io/u8kt4/)
 
 4. **Liu, Y.** and Moore, A. (2022). A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements. *Proceedings of the Annual Meeting of the Cognitive Science Society*, *44*, 2116–2125. [https://escholarship.org/uc/item/3v79704h](https://escholarship.org/uc/item/3v79704h) \
    [[pdf]](/papers/Liu_Moore_2022_AI_belief_alignment.pdf) [[osf]](https://osf.io/7qjt3/)
