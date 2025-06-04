@@ -28,9 +28,9 @@ layout: default
    Basel, Switzerland | 25-27 June 2025 \
    Oral talk: *An alternative path to moral bioenhancement? AI moral enhancement gains approval but undermines moral responsibility*
 
-4. Upcoming: **Centre for Technomoral Futures PhD Showcase Conference** \
+4. Upcoming: **Centre for Technomoral Futures PhD Showcase** ([CTMF](https://www.technomoralfutures.uk/phd-showcase-2025)) \
    Edinburgh, UK | 02 June 2025 \
-   Oral talk: 
+   Oral talk: *Navigating the complexities of artificial moral advisors in the prospect of AI moral enhancement: A moral psychology perspective*
 
 5. **19th Postgraduate Bioethics Conference** ([PGBC '24](https://ime-uk.org/events-and-news/events/pgbc-2024-bioethics-in-action/)) \
    Cambridge, UK | 02-03 Sept 2024 \
