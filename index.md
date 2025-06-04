@@ -17,5 +17,5 @@ Feel free to [email](mailto:yuxin.liu@ed.ac.uk) or dm me on [twitter](https://tw
 --
 
 <!-- "Comment" [cv (tbd)](/resume.pdf) | -->
-[phd profile](https://www.technomoralfutures.uk/phd-research-database/moral-judgments-towards-artificial-intelligence-systems) | 
+[CTMF phd profile](https://www.technomoralfutures.uk/phd-research-database/navigating-the-complexities-of-artificial-moral-advisors-in-the-prospect-of-ai-moral-enhancement-a-moral-psychology-perspective) | 
 [google scholar](https://scholar.google.co.uk/citations?user=06_0SucAAAAJ&hl=en) 
